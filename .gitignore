@@ -1,0 +1,17 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.so
+*.pyd
+
+# Virtual environment
+venv/
+.venv/
+env/
+.env
+
+# Temporary document files
+temp_document.*
+
+# VS Code settings
+.vscode/

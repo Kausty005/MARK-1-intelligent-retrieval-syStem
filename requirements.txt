@@ -1,0 +1,21 @@
+# requirements.txt
+
+# FastAPI server
+fastapi
+uvicorn[standard]
+
+# Core RAG and ML libraries
+langchain
+sentence-transformers
+faiss-cpu
+pypdf
+
+# Google Gemini API
+google-generativeai
+
+# For downloading files from URLs
+requests
+
+# For parsing DOCX and EML files
+unstructured[docx]
+unstructured[email]
